@@ -148,6 +148,10 @@
   .frame2__grid {
     grid-template-columns: repeat(1, 1fr);
   }
+  .frame4__grid-item img {
+    max-width: 344px;
+    width: 100%;
+  }
   .footer__grid {
     display: block;
   }
